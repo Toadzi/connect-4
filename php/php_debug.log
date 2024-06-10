@@ -1,0 +1,11183 @@
+Array
+(
+    [game_id] => 11
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 1
+)
+Array
+(
+    [game_id] => 11
+    [player] => AI
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 2
+)
+Array
+(
+    [game_id] => 12
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 1
+)
+Array
+(
+    [game_id] => 12
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 2
+)
+Array
+(
+    [game_id] => 15
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 1
+)
+Array
+(
+    [game_id] => 15
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 2
+)
+Script started
+Input data: Array
+(
+    [game_id] => 23
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 1
+)
+Script started
+Input data: Array
+(
+    [game_id] => 23
+    [player] => AI
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 2
+)
+Script started
+Input data: Array
+(
+    [game_id] => 24
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 24
+    [player] => AI
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 24
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 24
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 24
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 24
+    [player] => AI
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 24
+    [player] => Player
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 25
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 25
+    [player] => AI
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 25
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 25
+    [player] => AI
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 25
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 25
+    [player] => AI
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 25
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 25
+    [player] => AI
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 25
+    [player] => Player
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 25
+    [player] => AI
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 25
+    [player] => Player
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 25
+    [player] => AI
+    [col] => 6
+    [row] => 4
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 25
+    [player] => Player
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 25
+    [player] => AI
+    [col] => 0
+    [row] => 4
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 25
+    [player] => Player
+    [col] => 0
+    [row] => 3
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 25
+    [player] => AI
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 25
+    [player] => Player
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 26
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 26
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 26
+    [player] => Player
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 26
+    [player] => AI
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 26
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 26
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 26
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 26
+    [player] => AI
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 26
+    [player] => Player
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 28
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 28
+    [player] => AI
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 28
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 28
+    [player] => AI
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 28
+    [player] => Player
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 28
+    [player] => AI
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 28
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 28
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 28
+    [player] => Player
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 28
+    [player] => AI
+    [col] => 0
+    [row] => 4
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 28
+    [player] => Player
+    [col] => 0
+    [row] => 3
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 28
+    [player] => AI
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 28
+    [player] => Player
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 28
+    [player] => AI
+    [col] => 5
+    [row] => 3
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 28
+    [player] => Player
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 28
+    [player] => AI
+    [col] => 0
+    [row] => 2
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 28
+    [player] => Player
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 28
+    [player] => AI
+    [col] => 2
+    [row] => 1
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 28
+    [player] => Player
+    [col] => 5
+    [row] => 2
+    [moveNumber] => 19
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 1
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [player] => AI
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 2
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 1
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 2
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [player] => Player
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 3
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [player] => AI
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 4
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 5
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [player] => AI
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 6
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [player] => Player
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 7
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 8
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [player] => Player
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 9
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [player] => AI
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 10
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 11
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [player] => AI
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 12
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 13
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [player] => AI
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 14
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 3
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 1
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 2
+)
+Script started
+Input data: Array
+(
+    [game_id] => 3
+    [player] => Player
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 3
+    [player] => AI
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 6
+    [player] => Player
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 5
+    [player] => AI
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 6
+    [player] => Player
+    [col] => 6
+    [row] => 4
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 3
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 3
+    [player] => Player
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 6
+    [player] => AI
+    [col] => 6
+    [row] => 3
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 6
+    [player] => Player
+    [col] => 6
+    [row] => 2
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 1
+    [player] => AI
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 12
+)
+Script started
+Input data: Array
+(
+    [game_id] => 1
+    [player] => Player
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 13
+)
+Script started
+Input data: Array
+(
+    [game_id] => 1
+    [player] => AI
+    [col] => 1
+    [row] => 2
+    [moveNumber] => 14
+)
+Script started
+Input data: Array
+(
+    [game_id] => 2
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 15
+)
+Script started
+Input data: Array
+(
+    [game_id] => 2
+    [player] => AI
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 16
+)
+Script started
+Input data: Array
+(
+    [game_id] => 5
+    [player] => Player
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 2
+    [player] => AI
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 18
+)
+Script started
+Input data: Array
+(
+    [game_id] => 5
+    [player] => Player
+    [col] => 5
+    [row] => 3
+    [moveNumber] => 19
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 2
+    [player] => AI
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 20
+)
+Script started
+Input data: Array
+(
+    [game_id] => 4
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 21
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 4
+    [player] => AI
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 22
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 29
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 29
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 29
+    [player] => Player
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 29
+    [player] => AI
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 29
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 29
+    [player] => AI
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 29
+    [player] => Player
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 29
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 29
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 29
+    [player] => AI
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 29
+    [player] => Player
+    [col] => 3
+    [row] => 0
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 29
+    [player] => AI
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 29
+    [player] => Player
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 29
+    [player] => AI
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 29
+    [player] => Player
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 29
+    [player] => AI
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 29
+    [player] => Player
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 29
+    [player] => AI
+    [col] => 1
+    [row] => 2
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 30
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 30
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => Player
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => AI
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => AI
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => AI
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => Player
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => Player
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => AI
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => Player
+    [col] => 4
+    [row] => 1
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => AI
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => Player
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => AI
+    [col] => 5
+    [row] => 3
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => Player
+    [col] => 5
+    [row] => 2
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => AI
+    [col] => 5
+    [row] => 1
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => Player
+    [col] => 5
+    [row] => 0
+    [moveNumber] => 19
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => AI
+    [col] => 3
+    [row] => 0
+    [moveNumber] => 20
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => Player
+    [col] => 4
+    [row] => 0
+    [moveNumber] => 21
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => AI
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 22
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => Player
+    [col] => 1
+    [row] => 2
+    [moveNumber] => 23
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => AI
+    [col] => 6
+    [row] => 4
+    [moveNumber] => 24
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => Player
+    [col] => 6
+    [row] => 3
+    [moveNumber] => 25
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 31
+    [player] => AI
+    [col] => 6
+    [row] => 2
+    [moveNumber] => 26
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 33
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 33
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 33
+    [player] => Player
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 33
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 33
+    [player] => Player
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 33
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 36
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 37
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 38
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 39
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 39
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 39
+    [player] => Player
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 39
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 39
+    [player] => Player
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 39
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 39
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 39
+    [player] => AI
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 39
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 39
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 39
+    [player] => Player
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 39
+    [player] => AI
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 39
+    [player] => Player
+    [col] => 4
+    [row] => 1
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 39
+    [player] => AI
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 39
+    [player] => Player
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 39
+    [player] => AI
+    [col] => 5
+    [row] => 3
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 39
+    [player] => Player
+    [col] => 5
+    [row] => 2
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 39
+    [player] => AI
+    [col] => 6
+    [row] => 4
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 40
+    [player] => Player
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 40
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 40
+    [player] => Player
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 40
+    [player] => AI
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 40
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 40
+    [player] => AI
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 40
+    [player] => Player
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 40
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 40
+    [player] => Player
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 40
+    [player] => AI
+    [col] => 1
+    [row] => 2
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 40
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 40
+    [player] => AI
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 47
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 47
+    [player] => AI
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 53
+    [player] => Player
+    [col] => 8
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 53
+    [player] => AI
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 53
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 53
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 53
+    [player] => Player
+    [col] => 14
+    [row] => 5
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 53
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 53
+    [player] => Player
+    [col] => 14
+    [row] => 4
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 53
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 54
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 54
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 54
+    [player] => Player
+    [col] => 8
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 54
+    [player] => AI
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 54
+    [player] => Player
+    [col] => 11
+    [row] => 5
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 54
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 54
+    [player] => Player
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 54
+    [player] => AI
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 54
+    [player] => Player
+    [col] => 16
+    [row] => 5
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 54
+    [player] => AI
+    [col] => 1
+    [row] => 2
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => AI
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => Player
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => AI
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => Player
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => AI
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => Player
+    [col] => 5
+    [row] => 3
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => AI
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => Player
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => AI
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => Player
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => AI
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => Player
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => AI
+    [col] => 1
+    [row] => 2
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => Player
+    [col] => 1
+    [row] => 1
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => AI
+    [col] => 5
+    [row] => 2
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => Player
+    [col] => 5
+    [row] => 1
+    [moveNumber] => 19
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => AI
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 20
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => Player
+    [col] => 2
+    [row] => 1
+    [moveNumber] => 21
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => AI
+    [col] => 1
+    [row] => 0
+    [moveNumber] => 22
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 23
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => AI
+    [col] => 3
+    [row] => 0
+    [moveNumber] => 24
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => Player
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 25
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => AI
+    [col] => 2
+    [row] => 0
+    [moveNumber] => 26
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => Player
+    [col] => 5
+    [row] => 0
+    [moveNumber] => 27
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => AI
+    [col] => 6
+    [row] => 4
+    [moveNumber] => 28
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => Player
+    [col] => 6
+    [row] => 3
+    [moveNumber] => 29
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => AI
+    [col] => 6
+    [row] => 2
+    [moveNumber] => 30
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => Player
+    [col] => 6
+    [row] => 1
+    [moveNumber] => 31
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => AI
+    [col] => 6
+    [row] => 0
+    [moveNumber] => 32
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 33
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 57
+    [player] => AI
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 34
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 58
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 58
+    [player] => AI
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => AI
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => Player
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => AI
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => Player
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => AI
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => Player
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => Player
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => Player
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => AI
+    [col] => 0
+    [row] => 4
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => Player
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => AI
+    [col] => 1
+    [row] => 2
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => Player
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => AI
+    [col] => 0
+    [row] => 3
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => Player
+    [col] => 0
+    [row] => 2
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => Player
+    [col] => 0
+    [row] => 1
+    [moveNumber] => 19
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => AI
+    [col] => 2
+    [row] => 1
+    [moveNumber] => 20
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => Player
+    [col] => 6
+    [row] => 4
+    [moveNumber] => 21
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => AI
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 22
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => Player
+    [col] => 6
+    [row] => 3
+    [moveNumber] => 23
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => AI
+    [col] => 6
+    [row] => 2
+    [moveNumber] => 24
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => Player
+    [col] => 1
+    [row] => 1
+    [moveNumber] => 25
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => AI
+    [col] => 0
+    [row] => 0
+    [moveNumber] => 26
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => Player
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 27
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 28
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => Player
+    [col] => 4
+    [row] => 1
+    [moveNumber] => 29
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => Player
+    [col] => 4
+    [row] => 0
+    [moveNumber] => 30
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => AI
+    [col] => 2
+    [row] => 0
+    [moveNumber] => 31
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => AI
+    [col] => 1
+    [row] => 0
+    [moveNumber] => 32
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => Player
+    [col] => 6
+    [row] => 1
+    [moveNumber] => 33
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => AI
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 34
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => Player
+    [col] => 3
+    [row] => 0
+    [moveNumber] => 35
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => AI
+    [col] => 6
+    [row] => 0
+    [moveNumber] => 36
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 37
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => AI
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 38
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 59
+    [player] => Player
+    [col] => 5
+    [row] => 3
+    [moveNumber] => 39
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => AI
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => Player
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => AI
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => Player
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => AI
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => Player
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => AI
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => Player
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => AI
+    [col] => 1
+    [row] => 2
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => Player
+    [col] => 1
+    [row] => 1
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => AI
+    [col] => 2
+    [row] => 1
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => Player
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => AI
+    [col] => 3
+    [row] => 0
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => Player
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => AI
+    [col] => 2
+    [row] => 0
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => Player
+    [col] => 6
+    [row] => 4
+    [moveNumber] => 19
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => AI
+    [col] => 1
+    [row] => 0
+    [moveNumber] => 20
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => Player
+    [col] => 6
+    [row] => 3
+    [moveNumber] => 21
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => AI
+    [col] => 6
+    [row] => 2
+    [moveNumber] => 22
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 23
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => AI
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 24
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 25
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => AI
+    [col] => 5
+    [row] => 3
+    [moveNumber] => 26
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => Player
+    [col] => 5
+    [row] => 2
+    [moveNumber] => 27
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => AI
+    [col] => 5
+    [row] => 1
+    [moveNumber] => 28
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => Player
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 29
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => AI
+    [col] => 0
+    [row] => 4
+    [moveNumber] => 30
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => Player
+    [col] => 0
+    [row] => 3
+    [moveNumber] => 31
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 60
+    [player] => AI
+    [col] => 0
+    [row] => 2
+    [moveNumber] => 32
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 62
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 62
+    [player] => AI
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 62
+    [player] => Player
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 62
+    [player] => AI
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => AI
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => Player
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => AI
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => Player
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => AI
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => Player
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => AI
+    [col] => 0
+    [row] => 4
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => Player
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => AI
+    [col] => 2
+    [row] => 1
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => Player
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => AI
+    [col] => 2
+    [row] => 0
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => Player
+    [col] => 1
+    [row] => 2
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => AI
+    [col] => 1
+    [row] => 1
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => Player
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 19
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => AI
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 20
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => Player
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 21
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 22
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => Player
+    [col] => 5
+    [row] => 3
+    [moveNumber] => 23
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => AI
+    [col] => 1
+    [row] => 0
+    [moveNumber] => 24
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => Player
+    [col] => 6
+    [row] => 4
+    [moveNumber] => 25
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => AI
+    [col] => 2
+    [moveNumber] => 26
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 63
+    [player] => Player
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 27
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 64
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 64
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 64
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 64
+    [player] => AI
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 64
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 64
+    [player] => AI
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 64
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 64
+    [player] => AI
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 64
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 65
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 65
+    [player] => AI
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 65
+    [player] => Player
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 65
+    [player] => AI
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 65
+    [player] => Player
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 65
+    [player] => AI
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 65
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 65
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 65
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 65
+    [player] => AI
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 65
+    [player] => Player
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 65
+    [player] => AI
+    [col] => 5
+    [row] => 3
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 65
+    [player] => Player
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 65
+    [player] => AI
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 65
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 66
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 66
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 66
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 66
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 66
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 66
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 66
+    [player] => Player
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 66
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Script started
+Input data: Array
+(
+    [game_id] => 66
+    [player] => AI
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Input data: Array
+(
+    [game_id] => 66
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 66
+    [player] => Player
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 66
+    [player] => AI
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 66
+    [player] => Player
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 66
+    [player] => AI
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 66
+    [player] => Player
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 67
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 67
+    [player] => AI
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 67
+    [player] => Player
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 67
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 67
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 67
+    [player] => AI
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 67
+    [player] => Player
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 67
+    [player] => AI
+    [col] => 0
+    [row] => 4
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 67
+    [player] => Player
+    [col] => 0
+    [row] => 3
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 67
+    [player] => AI
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 67
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 67
+    [player] => AI
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 67
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 67
+    [player] => AI
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 67
+    [player] => Player
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 67
+    [player] => AI
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 68
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 68
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 68
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 68
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 68
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 68
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 68
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 68
+    [player] => AI
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 68
+    [player] => Player
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 68
+    [player] => AI
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 68
+    [player] => Player
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 68
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 68
+    [player] => Player
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 68
+    [player] => AI
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 68
+    [player] => Player
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 68
+    [player] => AI
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 69
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 69
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 69
+    [player] => Player
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 69
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 69
+    [player] => Player
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 69
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 69
+    [player] => Player
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 69
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 69
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 69
+    [player] => AI
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 69
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 69
+    [player] => AI
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 69
+    [player] => Player
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 69
+    [player] => AI
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 69
+    [player] => Player
+    [col] => 4
+    [row] => 1
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 69
+    [player] => AI
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 69
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 69
+    [player] => AI
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 70
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 70
+    [player] => AI
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 70
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 70
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 70
+    [player] => Player
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 70
+    [player] => AI
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 70
+    [player] => Player
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 70
+    [player] => AI
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 70
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 70
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 70
+    [player] => Player
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 70
+    [player] => AI
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 70
+    [player] => Player
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 70
+    [player] => AI
+    [col] => 1
+    [row] => 2
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 70
+    [player] => Player
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 70
+    [player] => AI
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 70
+    [player] => Player
+    [col] => 2
+    [row] => 1
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 70
+    [player] => AI
+    [col] => 1
+    [row] => 1
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 71
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 71
+    [player] => AI
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 71
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 71
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 71
+    [player] => Player
+    [col] => 0
+    [row] => 4
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 71
+    [player] => AI
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 71
+    [player] => Player
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 71
+    [player] => AI
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 71
+    [player] => Player
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 71
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 71
+    [player] => Player
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 71
+    [player] => AI
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 71
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 71
+    [player] => AI
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 71
+    [player] => Player
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 71
+    [player] => AI
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 71
+    [player] => Player
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 71
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => Player
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => Player
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => Player
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => AI
+    [col] => 1
+    [row] => 2
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => Player
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => Player
+    [col] => 0
+    [row] => 4
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => AI
+    [col] => 0
+    [row] => 3
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => AI
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => Player
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => AI
+    [col] => 0
+    [row] => 2
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => Player
+    [col] => 0
+    [row] => 1
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => AI
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 19
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => AI
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 20
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => Player
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 21
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => AI
+    [col] => 5
+    [row] => 3
+    [moveNumber] => 22
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => Player
+    [col] => 6
+    [row] => 4
+    [moveNumber] => 23
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => AI
+    [col] => 5
+    [row] => 2
+    [moveNumber] => 24
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => Player
+    [col] => 5
+    [row] => 1
+    [moveNumber] => 25
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 80
+    [player] => AI
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 26
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => AI
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => Player
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => AI
+    [col] => 0
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => Player
+    [col] => 0
+    [row] => 3
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => Player
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => AI
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => Player
+    [col] => 6
+    [row] => 4
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => AI
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => Player
+    [col] => 6
+    [row] => 3
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => AI
+    [col] => 6
+    [row] => 2
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => Player
+    [col] => 0
+    [row] => 2
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => Player
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => AI
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => Player
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 19
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => AI
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 20
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => Player
+    [col] => 0
+    [row] => 1
+    [moveNumber] => 21
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => AI
+    [col] => 0
+    [row] => 0
+    [moveNumber] => 22
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => Player
+    [col] => 1
+    [row] => 2
+    [moveNumber] => 23
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => AI
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 24
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => Player
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 25
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 26
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => Player
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 27
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => AI
+    [col] => 2
+    [row] => 1
+    [moveNumber] => 28
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => Player
+    [col] => 6
+    [row] => 1
+    [moveNumber] => 29
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => AI
+    [col] => 2
+    [row] => 0
+    [moveNumber] => 30
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => Player
+    [col] => 1
+    [row] => 1
+    [moveNumber] => 31
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 91
+    [player] => AI
+    [col] => 1
+    [row] => 0
+    [moveNumber] => 32
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => AI
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => Player
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => AI
+    [col] => 0
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => Player
+    [col] => 0
+    [row] => 3
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => Player
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => AI
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => AI
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => Player
+    [col] => 0
+    [row] => 2
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => Player
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => AI
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => Player
+    [col] => 0
+    [row] => 1
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => AI
+    [col] => 0
+    [row] => 0
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => Player
+    [col] => 6
+    [row] => 4
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => AI
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => Player
+    [col] => 6
+    [row] => 3
+    [moveNumber] => 19
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => AI
+    [col] => 6
+    [row] => 2
+    [moveNumber] => 20
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 21
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => AI
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 22
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => Player
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 23
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 93
+    [player] => AI
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 24
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => Player
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => Player
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => AI
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => Player
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => AI
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => Player
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => AI
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => Player
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => AI
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => Player
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => AI
+    [col] => 1
+    [row] => 2
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => Player
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => AI
+    [col] => 5
+    [row] => 3
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 19
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => AI
+    [col] => 5
+    [row] => 2
+    [moveNumber] => 20
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => Player
+    [col] => 6
+    [row] => 4
+    [moveNumber] => 21
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => AI
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 22
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => Player
+    [col] => 0
+    [row] => 4
+    [moveNumber] => 23
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 94
+    [player] => AI
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 24
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 95
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 95
+    [player] => AI
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 95
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 95
+    [player] => AI
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 95
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 95
+    [player] => AI
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 95
+    [player] => Player
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 95
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 95
+    [player] => Player
+    [col] => 5
+    [row] => 3
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 95
+    [player] => AI
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 95
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 95
+    [player] => AI
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 95
+    [player] => Player
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 95
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 95
+    [player] => Player
+    [col] => 5
+    [row] => 2
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 95
+    [player] => AI
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 95
+    [player] => Player
+    [col] => 6
+    [row] => 4
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 95
+    [player] => AI
+    [col] => 0
+    [row] => 4
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 95
+    [player] => Player
+    [col] => 0
+    [row] => 3
+    [moveNumber] => 19
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 95
+    [player] => AI
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 20
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => AI
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => Player
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => Player
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => AI
+    [col] => 5
+    [row] => 3
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => Player
+    [col] => 5
+    [row] => 2
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => Player
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => AI
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => Player
+    [col] => 1
+    [row] => 2
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => AI
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => Player
+    [col] => 5
+    [row] => 1
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => AI
+    [col] => 1
+    [row] => 1
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => Player
+    [col] => 1
+    [row] => 0
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => AI
+    [col] => 3
+    [row] => 0
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 19
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => AI
+    [col] => 5
+    [row] => 0
+    [moveNumber] => 20
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => Player
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 21
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => AI
+    [col] => 6
+    [row] => 4
+    [moveNumber] => 22
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => Player
+    [col] => 6
+    [row] => 3
+    [moveNumber] => 23
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => AI
+    [col] => 6
+    [row] => 2
+    [moveNumber] => 24
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => Player
+    [col] => 6
+    [row] => 1
+    [moveNumber] => 25
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => AI
+    [col] => 6
+    [row] => 0
+    [moveNumber] => 26
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => Player
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 27
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 97
+    [player] => AI
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 28
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => Player
+    [col] => 6
+    [row] => 11
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => AI
+    [col] => 4
+    [row] => 11
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => Player
+    [col] => 4
+    [row] => 10
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => AI
+    [col] => 2
+    [row] => 11
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => Player
+    [col] => 2
+    [row] => 10
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => AI
+    [col] => 3
+    [row] => 11
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => Player
+    [col] => 1
+    [row] => 11
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => AI
+    [col] => 3
+    [row] => 10
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => Player
+    [col] => 5
+    [row] => 11
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => AI
+    [col] => 3
+    [row] => 9
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => Player
+    [col] => 3
+    [row] => 8
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => AI
+    [col] => 2
+    [row] => 9
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => Player
+    [col] => 4
+    [row] => 9
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => AI
+    [col] => 5
+    [row] => 10
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => Player
+    [col] => 5
+    [row] => 9
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => AI
+    [col] => 4
+    [row] => 8
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => Player
+    [col] => 7
+    [row] => 11
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => AI
+    [col] => 8
+    [row] => 11
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => Player
+    [col] => 5
+    [row] => 8
+    [moveNumber] => 19
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => AI
+    [col] => 5
+    [row] => 7
+    [moveNumber] => 20
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => Player
+    [col] => 6
+    [row] => 10
+    [moveNumber] => 21
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => AI
+    [col] => 6
+    [row] => 9
+    [moveNumber] => 22
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => Player
+    [col] => 7
+    [row] => 10
+    [moveNumber] => 23
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => AI
+    [col] => 7
+    [row] => 9
+    [moveNumber] => 24
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => Player
+    [col] => 6
+    [row] => 8
+    [moveNumber] => 25
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => AI
+    [col] => 6
+    [row] => 7
+    [moveNumber] => 26
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => Player
+    [col] => 4
+    [row] => 7
+    [moveNumber] => 27
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 100
+    [player] => AI
+    [col] => 6
+    [row] => 6
+    [moveNumber] => 28
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 101
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 101
+    [player] => AI
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 101
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 101
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 101
+    [player] => Player
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 101
+    [player] => AI
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 101
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 101
+    [player] => AI
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 101
+    [player] => Player
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 101
+    [player] => AI
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 101
+    [player] => Player
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 101
+    [player] => AI
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 101
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 101
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 101
+    [player] => Player
+    [col] => 4
+    [row] => 1
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 101
+    [player] => AI
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 102
+    [player] => Player
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 102
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 102
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 102
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 102
+    [player] => Player
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 102
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 102
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 102
+    [player] => AI
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 102
+    [player] => Player
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 102
+    [player] => AI
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 105
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 105
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 108
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 108
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 109
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 110
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 111
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 111
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 111
+    [player] => Player
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 111
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 111
+    [player] => Player
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 111
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 111
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 111
+    [player] => AI
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 111
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 111
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 111
+    [player] => Player
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 111
+    [player] => AI
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 111
+    [player] => Player
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 111
+    [player] => AI
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 111
+    [player] => Player
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 111
+    [player] => AI
+    [col] => 4
+    [row] => 1
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => AI
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => Player
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => AI
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => Player
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => AI
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => Player
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => AI
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => Player
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => Player
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => AI
+    [col] => 2
+    [row] => 1
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => AI
+    [col] => 6
+    [row] => 4
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => Player
+    [col] => 6
+    [row] => 3
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => AI
+    [col] => 3
+    [row] => 0
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 19
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => AI
+    [col] => 1
+    [row] => 2
+    [moveNumber] => 20
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => Player
+    [col] => 1
+    [row] => 1
+    [moveNumber] => 21
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => AI
+    [col] => 1
+    [row] => 0
+    [moveNumber] => 22
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => Player
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 23
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => AI
+    [col] => 2
+    [row] => 0
+    [moveNumber] => 24
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 25
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 112
+    [player] => AI
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 26
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 123
+    [player] => player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 123
+    [player] => player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 126
+    [player] => player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 127
+    [player] => player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 127
+    [player] => player
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 129
+    [player] => player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 131
+    [player] => player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 133
+    [player] => player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 135
+    [player] => player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 136
+    [player] => player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 138
+    [player] => blue
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 138
+    [player] => blue
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 138
+    [player] => blue
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 138
+    [player] => blue
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 138
+    [player] => red
+    [col] => 2
+    [row] => 1
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 138
+    [player] => red
+    [col] => 2
+    [row] => 0
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 138
+    [player] => blue
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 138
+    [player] => blue
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 138
+    [player] => blue
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 138
+    [player] => blue
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 138
+    [player] => red
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 138
+    [player] => red
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 138
+    [player] => blue
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 138
+    [player] => red
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 138
+    [player] => blue
+    [col] => 4
+    [row] => 1
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 138
+    [player] => blue
+    [col] => 4
+    [row] => 0
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 138
+    [player] => blue
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 138
+    [player] => red
+    [col] => 3
+    [row] => 0
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 139
+    [player] => blue
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 139
+    [player] => blue
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 139
+    [player] => blue
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 139
+    [player] => blue
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 139
+    [player] => red
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 139
+    [player] => red
+    [col] => 3
+    [row] => 0
+    [moveNumber] => 0
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => AI
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => Player
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => AI
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => Player
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => AI
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => Player
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => AI
+    [col] => 2
+    [row] => 1
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => AI
+    [col] => 3
+    [row] => 0
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => Player
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => AI
+    [col] => 2
+    [row] => 0
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => Player
+    [col] => 0
+    [row] => 4
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => AI
+    [col] => 0
+    [row] => 3
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => Player
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 19
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => AI
+    [col] => 0
+    [row] => 2
+    [moveNumber] => 20
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => Player
+    [col] => 0
+    [row] => 1
+    [moveNumber] => 21
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => AI
+    [col] => 5
+    [row] => 3
+    [moveNumber] => 22
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 23
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 140
+    [player] => AI
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 24
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 141
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 141
+    [player] => AI
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 141
+    [player] => Player
+    [col] => 0
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 141
+    [player] => AI
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 141
+    [player] => Player
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 141
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 141
+    [player] => Player
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 141
+    [player] => AI
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 141
+    [player] => Player
+    [col] => 0
+    [row] => 3
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 141
+    [player] => AI
+    [col] => 1
+    [row] => 2
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 141
+    [player] => Player
+    [col] => 1
+    [row] => 1
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 141
+    [player] => AI
+    [col] => 0
+    [row] => 2
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 141
+    [player] => Player
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 141
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => AI
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => Player
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => AI
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => AI
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => Player
+    [col] => 0
+    [row] => 4
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => AI
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => Player
+    [col] => 2
+    [row] => 1
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => AI
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => Player
+    [col] => 4
+    [row] => 1
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => AI
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => Player
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => AI
+    [col] => 5
+    [row] => 3
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => Player
+    [col] => 5
+    [row] => 2
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => AI
+    [col] => 5
+    [row] => 1
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => Player
+    [col] => 0
+    [row] => 3
+    [moveNumber] => 19
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => AI
+    [col] => 2
+    [row] => 0
+    [moveNumber] => 20
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 21
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => AI
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 22
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 23
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 24
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => Player
+    [col] => 6
+    [row] => 4
+    [moveNumber] => 25
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 142
+    [player] => AI
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 26
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 144
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 144
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 144
+    [player] => Player
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 144
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 144
+    [player] => Player
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 144
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 144
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 144
+    [player] => AI
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 144
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 144
+    [player] => AI
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 144
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 144
+    [player] => AI
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 144
+    [player] => Player
+    [col] => 5
+    [row] => 3
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 144
+    [player] => AI
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => AI
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => AI
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => Player
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => AI
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => AI
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => AI
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => Player
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => Player
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => Player
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => AI
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => Player
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => AI
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => Player
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 19
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => AI
+    [col] => 4
+    [row] => 1
+    [moveNumber] => 20
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => Player
+    [col] => 5
+    [row] => 3
+    [moveNumber] => 21
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 145
+    [player] => AI
+    [col] => 5
+    [row] => 2
+    [moveNumber] => 22
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 147
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 147
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 147
+    [player] => Player
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 147
+    [player] => AI
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 149
+    [player] => Player
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 149
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 150
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 150
+    [player] => AI
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 150
+    [player] => Player
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 150
+    [player] => AI
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 153
+    [player] => Player
+    [col] => 10
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 153
+    [player] => Player
+    [col] => 10
+    [row] => 4
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 153
+    [player] => Player
+    [col] => 10
+    [row] => 3
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 153
+    [player] => Player
+    [col] => 10
+    [row] => 2
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 153
+    [player] => Player
+    [col] => 10
+    [row] => 1
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 153
+    [player] => Player
+    [col] => 10
+    [row] => 0
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 153
+    [player] => Player
+    [col] => 10
+    [moveNumber] => 7
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 153
+    [player] => Player
+    [col] => 10
+    [moveNumber] => 8
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 153
+    [player] => AI
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 153
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 11
+)
+Script started
+Move stored successfully
+Output: 
+Input data: Array
+(
+    [game_id] => 153
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 10
+)
+Script started
+Input data: Array
+(
+    [game_id] => 153
+    [player] => Player
+    [col] => 10
+    [moveNumber] => 12
+)
+Invalid input data
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 153
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 153
+    [player] => AI
+    [col] => 
+    [row] => 5
+    [moveNumber] => 14
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 153
+    [player] => AI
+    [col] => 
+    [row] => 4
+    [moveNumber] => 15
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 153
+    [player] => AI
+    [col] => 
+    [row] => 3
+    [moveNumber] => 16
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 153
+    [player] => AI
+    [col] => 
+    [row] => 2
+    [moveNumber] => 17
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 153
+    [player] => AI
+    [col] => 
+    [row] => 1
+    [moveNumber] => 18
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => Player
+    [col] => 10
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => Player
+    [col] => 10
+    [row] => 4
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => Player
+    [col] => 10
+    [row] => 3
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => Player
+    [col] => 10
+    [row] => 2
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => Player
+    [col] => 10
+    [row] => 1
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => Player
+    [col] => 10
+    [row] => 0
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => Player
+    [col] => 10
+    [moveNumber] => 7
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => Player
+    [col] => 10
+    [moveNumber] => 8
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => Player
+    [col] => 10
+    [moveNumber] => 9
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => Player
+    [col] => 10
+    [moveNumber] => 10
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => Player
+    [col] => 10
+    [moveNumber] => 11
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => Player
+    [col] => 10
+    [moveNumber] => 12
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => Player
+    [col] => 10
+    [moveNumber] => 13
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => Player
+    [col] => 10
+    [moveNumber] => 14
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => Player
+    [col] => 10
+    [moveNumber] => 15
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => AI
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => Player
+    [col] => 10
+    [moveNumber] => 17
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Script started
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => Player
+    [col] => 10
+    [moveNumber] => 19
+)
+Input data: Array
+(
+    [game_id] => 154
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 20
+)
+Invalid input data
+Input data: Array
+(
+    [game_id] => 154
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 21
+)
+Move stored successfully
+Output: 
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => AI
+    [col] => 
+    [row] => 5
+    [moveNumber] => 22
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => AI
+    [col] => 
+    [row] => 4
+    [moveNumber] => 23
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => AI
+    [col] => 
+    [row] => 3
+    [moveNumber] => 24
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => AI
+    [col] => 
+    [row] => 2
+    [moveNumber] => 25
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => AI
+    [col] => 
+    [row] => 1
+    [moveNumber] => 26
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => AI
+    [col] => 
+    [row] => 0
+    [moveNumber] => 27
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => AI
+    [col] => 
+    [moveNumber] => 28
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => AI
+    [col] => 
+    [moveNumber] => 29
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => AI
+    [col] => 
+    [moveNumber] => 30
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => AI
+    [col] => 
+    [moveNumber] => 32
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => AI
+    [col] => 
+    [moveNumber] => 31
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => AI
+    [col] => 
+    [moveNumber] => 33
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 154
+    [player] => AI
+    [col] => 
+    [moveNumber] => 34
+)
+Invalid input data
+Script started
+Input data: Array
+(
+    [game_id] => 155
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 155
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 155
+    [player] => Player
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 155
+    [player] => AI
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 155
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 155
+    [player] => AI
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 155
+    [player] => Player
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 155
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 155
+    [player] => Player
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 155
+    [player] => AI
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 155
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 155
+    [player] => AI
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 155
+    [player] => Player
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 155
+    [player] => AI
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 155
+    [player] => Player
+    [col] => 4
+    [row] => 1
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 155
+    [player] => AI
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 161
+    [player] => Player
+    [col] => 12
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 161
+    [player] => AI
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 161
+    [player] => Player
+    [col] => 7
+    [row] => 5
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 161
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 161
+    [player] => Player
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 161
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 161
+    [player] => Player
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 161
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 162
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 162
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 162
+    [player] => Player
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 162
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 162
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 162
+    [player] => AI
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 162
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 162
+    [player] => AI
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 162
+    [player] => Player
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 162
+    [player] => AI
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 162
+    [player] => Player
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 162
+    [player] => AI
+    [col] => 5
+    [row] => 3
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 162
+    [player] => Player
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 162
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 162
+    [player] => Player
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 162
+    [player] => AI
+    [col] => 5
+    [row] => 2
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 162
+    [player] => Player
+    [col] => 5
+    [row] => 1
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 162
+    [player] => AI
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 163
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 163
+    [player] => AI
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 163
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 163
+    [player] => AI
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 163
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 163
+    [player] => AI
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 163
+    [player] => Player
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 163
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 163
+    [player] => Player
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 163
+    [player] => AI
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 163
+    [player] => Player
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 163
+    [player] => AI
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 163
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 163
+    [player] => AI
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 163
+    [player] => Player
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 163
+    [player] => AI
+    [col] => 1
+    [row] => 3
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 163
+    [player] => Player
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 163
+    [player] => AI
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 163
+    [player] => Player
+    [col] => 8
+    [row] => 5
+    [moveNumber] => 19
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 163
+    [player] => AI
+    [col] => 1
+    [row] => 2
+    [moveNumber] => 20
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 164
+    [player] => Player
+    [col] => 9
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 164
+    [player] => AI
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 164
+    [player] => Player
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 164
+    [player] => AI
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 164
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 164
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 164
+    [player] => Player
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 164
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 165
+    [player] => Player
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 165
+    [player] => AI
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 166
+    [player] => Player
+    [col] => 7
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 166
+    [player] => AI
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 166
+    [player] => Player
+    [col] => 7
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 166
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 166
+    [player] => Player
+    [col] => 7
+    [row] => 3
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 166
+    [player] => AI
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 166
+    [player] => Player
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 166
+    [player] => AI
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => AI
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => Player
+    [col] => 2
+    [row] => 4
+    [moveNumber] => 3
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => AI
+    [col] => 4
+    [row] => 4
+    [moveNumber] => 4
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => Player
+    [col] => 4
+    [row] => 3
+    [moveNumber] => 5
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => AI
+    [col] => 2
+    [row] => 3
+    [moveNumber] => 6
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => Player
+    [col] => 4
+    [row] => 2
+    [moveNumber] => 7
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => AI
+    [col] => 4
+    [row] => 1
+    [moveNumber] => 8
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => Player
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 9
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => AI
+    [col] => 2
+    [row] => 2
+    [moveNumber] => 10
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => Player
+    [col] => 3
+    [row] => 4
+    [moveNumber] => 11
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => AI
+    [col] => 3
+    [row] => 3
+    [moveNumber] => 12
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 13
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => AI
+    [col] => 6
+    [row] => 5
+    [moveNumber] => 14
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => Player
+    [col] => 5
+    [row] => 4
+    [moveNumber] => 15
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => AI
+    [col] => 3
+    [row] => 2
+    [moveNumber] => 16
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => Player
+    [col] => 3
+    [row] => 1
+    [moveNumber] => 17
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => AI
+    [col] => 5
+    [row] => 3
+    [moveNumber] => 18
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => Player
+    [col] => 5
+    [row] => 2
+    [moveNumber] => 19
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => AI
+    [col] => 2
+    [row] => 1
+    [moveNumber] => 20
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => Player
+    [col] => 2
+    [row] => 0
+    [moveNumber] => 21
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => AI
+    [col] => 3
+    [row] => 0
+    [moveNumber] => 22
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => Player
+    [col] => 6
+    [row] => 4
+    [moveNumber] => 23
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => AI
+    [col] => 0
+    [row] => 5
+    [moveNumber] => 24
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => Player
+    [col] => 1
+    [row] => 5
+    [moveNumber] => 25
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 167
+    [player] => AI
+    [col] => 1
+    [row] => 4
+    [moveNumber] => 26
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 168
+    [player] => Player
+    [col] => 5
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 168
+    [player] => AI
+    [col] => 3
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 169
+    [player] => Player
+    [col] => 4
+    [row] => 5
+    [moveNumber] => 1
+)
+Move stored successfully
+Output: 
+Script started
+Input data: Array
+(
+    [game_id] => 169
+    [player] => AI
+    [col] => 2
+    [row] => 5
+    [moveNumber] => 2
+)
+Move stored successfully
+Output: 
