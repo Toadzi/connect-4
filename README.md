@@ -2,7 +2,7 @@
 This project is an implementation in javascript of the algorithm [minimax with Alpha-Beta] and [negamax] applied to the game `Connect Four`.
 
 # Example
-You can find here a [live demo](https://)
+You can find here https://web-app-server.de/leroys-connect-4/
 
 # How it works
 
