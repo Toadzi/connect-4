@@ -10,15 +10,13 @@ $(document).ready(function() {
             this.restartBtn = document.getElementById('restartGame');
             this.depthSelect = document.getElementById('depthSelect');
             this.algorithmSelect = document.getElementById('algorithmSelect');
-            //this.scoreAlert = document.getElementById('scoreAlert');
-            //this.scoreSpan = document.getElementById('score');
-            //this.winningAlert = document.getElementById('winningAlert');
-            //this.waitingAlert = document.getElementById('waitingAlert');
+
             this.historyTable = document.getElementById('historyTable');
             this.gestureIndicator = document.getElementById('gestureIndicator');
             this.toggleGestureControlBtn = document.getElementById('toggleGestureControl');
 
             this.historyOpen = $('#historyOpenBtn');
+            this.instructionsyOpen = $('#instructionsOpenBtn');
             this.historyGame = $('#historyGame');
 
             this.lastClickTime = 0; // Speichert den Zeitpunkt des letzten erkannten Klicks
@@ -339,6 +337,11 @@ $(document).ready(function() {
                 console.log("Öffne Historie");
                 $('#modalHistory').modal('show');
             });
+
+            this.instructionsyOpen.on('click', () => {
+                console.log("Öffne Instrucions");
+                $('#modalInstructions').modal('show');
+            });
         }
 
         updateHistoryTable() {
@@ -367,7 +370,7 @@ $(document).ready(function() {
         }
 
         storeMove(player, col, row) {
-            // Erstelle ein Objekt für den Zug
+            // Erstelle ein Objekt für den Spielzug
             const move = {
                 gameId: this.gameId,
                 player: player,
