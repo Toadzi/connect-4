@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Three.js Game</title>
+    <style>
+        body { margin: 0; }
+        canvas { display: block; width: 100vw; height: 100vh; }
+        .game-ui { position: absolute; top: 20px; left: 20px; color: white; font-family: monospace; }
+        .game-over { display: none; }
+        .ai-settings { position: absolute; top: 20px; right: 20px; color: white; font-family: monospace; }
+        #ui-settings {
+            background-color: #383939;
+            border: 1px solid #464646;
+            padding: 5px;
+            border-radius: 5px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            color: white;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="game-ui">
+        <div class="turn">Turn: <span id="turn">red</span></div>
+        <div class="ai-status">AI: <span id="turn">... is thinking</span></div>
+        <div class="game-over">
+            <h1>GAME OVER</h1>
+            <h2 id="winner">Wins</h2>
+            <button onclick="location.reload()">PLAY AGAIN</button>
+        </div>
+    </div>
+    <div class="ai-settings">
+        <label for="depth">Depth:</label>
+        <select id="depth">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4" selected>4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+        </select>
+        <label for="algorithm">Algorithm:</label>
+        <select id="algorithm">
+            <option value="minimax" selected>Minimax</option>
+            <option value="negamax">Negamax</option>
+        </select>
+    </div>
+    <!--<div style="position: relative;">
+        <video id="webcam" style="position: absolute" autoplay="" playsinline=""></video>
+        <canvas class="output_canvas" id="output_canvas" style="position: absolute; left: 0px; top: 0px;"></canvas>
+    </div>-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/loaders/GLTFLoader.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js"></script>
+    <script type="module" src="./app.js"></script>
+</body>
+</html>

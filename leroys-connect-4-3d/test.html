@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stylish Table</title>
+    <style>
+        body { margin: 0; }
+        canvas { display: block; }
+    </style>
+</head>
+<body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script>
+    // Szene, Kamera und Renderer einrichten
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+    const renderer = new THREE.WebGLRenderer();
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    document.body.appendChild(renderer.domElement);
+
+    // Beleuchtung hinzufügen
+    const ambientLight = new THREE.AmbientLight(0xffffff, 0.5);
+    scene.add(ambientLight);
+
+    const pointLight = new THREE.PointLight(0xffffff, 0.8);
+    pointLight.position.set(5, 5, 5);
+    scene.add(pointLight);
+
+    // Tischplatte erstellen
+    const tableTopGeometry = new THREE.CylinderGeometry(0.5, 0.5, 0.05, 32);
+    const woodTexture = new THREE.TextureLoader().load('wood.jpg');  // Pfad zur Holztextur
+    const tableTopMaterial = new THREE.MeshPhongMaterial({ map: woodTexture, shininess: 100 });
+    const tableTop = new THREE.Mesh(tableTopGeometry, tableTopMaterial);
+    tableTop.position.y = 0.5;
+    scene.add(tableTop);
+
+    // Tischbein erstellen
+    const legGeometry = new THREE.CylinderGeometry(0.05, 0.05, 0.9, 32);
+    const legMaterial = new THREE.MeshPhongMaterial({ map: woodTexture, shininess: 100 });
+    const tableLeg = new THREE.Mesh(legGeometry, legMaterial);
+    tableLeg.position.y = 0;
+    scene.add(tableLeg);
+
+    // Sockel erstellen
+    const baseGeometry = new THREE.CylinderGeometry(0.2, 0.2, 0.05, 32);
+    const baseMaterial = new THREE.MeshPhongMaterial({ map: woodTexture, shininess: 100 });
+    const tableBase = new THREE.Mesh(baseGeometry, baseMaterial);
+    tableBase.position.y = -0.45;
+    scene.add(tableBase);
+
+    // Kamera positionieren
+    camera.position.z = 2;
+
+    // Animationsschleife
+    function animate() {
+        requestAnimationFrame(animate);
+        renderer.render(scene, camera);
+    }
+    animate();
+
+    // Fenstergröße anpassen
+    window.addEventListener('resize', () => {
+        camera.aspect = window.innerWidth / window.innerHeight;
+        camera.updateProjectionMatrix();
+        renderer.setSize(window.innerWidth, window.innerHeight);
+    });
+</script>
+</body>
+</html>
