@@ -1,4 +1,7 @@
+![beitragsbild](https://github.com/Toadzi/connect-4/assets/170478014/65157293-9c7c-4d3f-a21c-9dbe75c59b3d)
+
 # Leroys's Connect 4
+
 This project is an implementation in JavaScript of the algorithm [minimax with Alpha-Beta] and [negamax with Alpha-Beta] applied to the game "Connect Four". It features a robust AI that can challenge both novice and experienced players, providing a dynamic gaming experience. This project also incorporates a gesture recognition technology to allow players to control the game using physical gestures.
 
 # Example
