@@ -3,7 +3,7 @@ This project is an implementation in javascript of the algorithm [minimax with A
 
 # Example
 You can find it here https://web-app-server.de/leroys-connect-4/
-
+And here the unfinished 3D-Version: https://web-app-server.de/leroys-connect-4-3d/
 # How it works
 
 The AI searches the best move through algorithm **minimax** or **negamax**:
